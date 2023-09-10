@@ -2,9 +2,9 @@
 permalink: LINKS/
 ---
 
-#LINKS
+# LINKS
 
-##Week 01
+## Week 01
 1. [Linux in 100 Seconds](https://youtu.be/rrB13utjYV4?si=ChKSdTiZPsnz5bDc)<br>
 A short and compact introduction to Linux, helps me understand the general overview of what this thing called Linux is.<br>
 
