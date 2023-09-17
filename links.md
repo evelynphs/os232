@@ -18,14 +18,14 @@ A quick answer to "What's Vim?" and "Why Vim?" <br>
 Some Vim basic commands speedrun.
 
 ## Week 02
-1. [How to use chmod | Manage File Permissions in Linux](https://youtu.be/ngJG6Ix5FR4?si=iBwhNt8dPbogDwTJ)
+1. [How to use chmod | Manage File Permissions in Linux](https://youtu.be/ngJG6Ix5FR4?si=iBwhNt8dPbogDwTJ)<br>
 A tutorial on how to set file permissions in linux using `chmod`, explaining the meaning of rwx, rw-, and r-, and how to change permissions numerically. You can also watch [Linux Tutorial for Beginners - 8 - File Permissions](https://youtu.be/BmVmJi5dR9c?si=q2ee0KCw_C1l7UoC) for a shorter explanation about this subject.
 
-2. [Linux Commands Cheat Sheet](https://www.geeksforgeeks.org/linux-commands-cheat-sheet/) & [Vim Cheat Sheet](https://vim.rtorr.com/)
+2. [Linux Commands Cheat Sheet](https://www.geeksforgeeks.org/linux-commands-cheat-sheet/) & [Vim Cheat Sheet](https://vim.rtorr.com/)<br>
 Cheat sheets of commonly used Linux and vim commands so that i don't have to google "how to \*insert action\* in linux/vim" all the time :")
 
-3. [Access Control Lists (ACL) in Linux](https://www.geeksforgeeks.org/access-control-listsacl-linux/)
+3. [Access Control Lists (ACL) in Linux](https://www.geeksforgeeks.org/access-control-listsacl-linux/)<br>
 Explaining ACL, which is a package that provides more flexible permission mechanism. You can install ACL in linux with the `sudo apt-get install acl` command.
 
-4. [How SSH key Works](https://youtu.be/y2SWzw9D4RA?si=EYlkmR46BZv3P9DX)
+4. [How SSH key Works](https://youtu.be/y2SWzw9D4RA?si=EYlkmR46BZv3P9DX)<br>
 Explains what ssh key is, how it works, and why we need it. 
