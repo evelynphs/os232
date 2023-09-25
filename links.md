@@ -29,3 +29,16 @@ Explaining ACL, which is a package that provides more flexible permission mechan
 
 4. [How SSH key Works](https://youtu.be/y2SWzw9D4RA?si=EYlkmR46BZv3P9DX)<br>
 Explains what ssh key is, how it works, and why we need it. 
+
+## Week 03
+1. [Files & File Systems: Crash Course Computer Science](https://youtu.be/KN8YgJnShPM?si=nMv4ZWmjU8JbSWQ-)
+Helps me understand how blocks, fragmentation, and defragmentation work behind our storage.
+
+2. [What are Drive Partitions?](https://youtu.be/AeUM4kR67XQ?si=RU32KF3v7-ZzckHx)
+I didn't quiet grasp the concept of drive partition when we talked about it in class, and this video helps to clear things up.
+
+3. [File System Mounting](https://youtu.be/QT1mBAJBuoA?si=Uf-m-I4HdHCFa9iH)
+Explains why we mount, what a mount point is, and the basic of how mounting works.
+
+4. [Distinction Between Volume and Partition](https://superuser.com/questions/1340300/distinction-between-volume-and-partition-terminology) & [Partition vs Volume](https://recoverit.wondershare.com/partition-tips/partition-vs-volume.html)
+These two links really helped me with my confusion about what really is the difference between volume and partition.
