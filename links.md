@@ -42,3 +42,13 @@ Explains why we mount, what a mount point is, and the basic of how mounting work
 
 4. [Distinction Between Volume and Partition](https://superuser.com/questions/1340300/distinction-between-volume-and-partition-terminology) & [Partition vs Volume](https://recoverit.wondershare.com/partition-tips/partition-vs-volume.html)<br>
 These two links really helped me with my confusion about what really is the difference between volume and partition.
+
+## Week 04
+1. [What is virtual memory?](https://youtu.be/2quKyPnUShQ?si=ghtzNchGCKEOjWAF)<br>
+Explains what virtual memory is, how it works, and why we need it.
+
+2. [Paging by Udacity](https://youtu.be/pJ5ezHfJokw?si=BObDNTq9RgIf8kpb)<br>
+A short and simple explanation about what paging is.
+
+3. [Virtual To Physical Translation](https://youtu.be/l7HoguhFVQ4?si=vFjS9oeD9tSH0nYX) & [Mapping Virtual Physical Memory](https://youtu.be/c5TD8QyRJcA?si=pz_YtDCGNUmFFlOJ)<br>
+Short explanation about how mapping works (mapping virtual address to physical address).
