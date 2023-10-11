@@ -52,3 +52,7 @@ A short and simple explanation about what paging is.
 
 3. [Virtual To Physical Translation](https://youtu.be/l7HoguhFVQ4?si=vFjS9oeD9tSH0nYX) & [Mapping Virtual Physical Memory](https://youtu.be/c5TD8QyRJcA?si=pz_YtDCGNUmFFlOJ)<br>
 Short explanation about how mapping works (mapping virtual address to physical address).
+
+## Week 05
+1. [SCP Linux Command – How to SSH File Transfer from Remote to Local](https://www.freecodecamp.org/news/scp-linux-command-example-how-to-ssh-file-transfer-from-remote-to-local/)<br>
+A very simple guide on how to do file transfer between local and remote host in linux using scp. Very helpful for pop quiz.
