@@ -56,3 +56,15 @@ Short explanation about how mapping works (mapping virtual address to physical a
 ## Week 05
 1. [SCP Linux Command – How to SSH File Transfer from Remote to Local](https://www.freecodecamp.org/news/scp-linux-command-example-how-to-ssh-file-transfer-from-remote-to-local/)<br>
 A very simple guide on how to do file transfer between local and remote host in linux using scp. Very helpful for pop quiz.
+
+## Week 06
+1. [FANG Interview Question | Process vs Thread](https://youtu.be/4rLW7zg21gI?si=-WLdSXsHyzCXKTii)<br>
+An explanation regarding basic differences between process and thread. Lots of nice visualisations such as diagrams and animations.
+
+2. [L-1.11: Process Vs Threads in Operating System by Gate Smashers](https://youtu.be/ITc09gOrqZk?si=DVJRuT_-RGhJPpW2)<br>
+Another explanation regarding basic differences between process and thread, but this one is a bit more detailed. Very well structured, definitely helps me grasp the material better. The simplicity of the explanation also makes it very easy to keep up with. Love the clones vs hands analogy.
+
+3. [L-1.8: Fork System call with Example | Fork() system call questions by Gate Smashers](https://youtu.be/ixq5cpdEO2Q?si=txfT28j2dIQlSxbk)<br>
+The basic concept of fork(), what it is and how it works. Simple, concise, easy to keep up with. Thanks a lot to this guy for making it feels like a bite size chunk of snack for my brain.
+
+
