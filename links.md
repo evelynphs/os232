@@ -67,4 +67,9 @@ Another explanation regarding basic differences between process and thread, but 
 3. [L-1.8: Fork System call with Example | Fork() system call questions by Gate Smashers](https://youtu.be/ixq5cpdEO2Q?si=txfT28j2dIQlSxbk)<br>
 The basic concept of fork(), what it is and how it works. Simple, concise, easy to keep up with. Thanks a lot to this guy for making it feels like a bite size chunk of snack for my brain.
 
+## Week 07
+1. [L-3.1: Process Synchronization | Process Types | Race Condition](https://youtu.be/3Eaw1SSIqRg?si=ryCjAaiMvPWFgEJZ)<br>
+Explains what process synchronization is and why we need it. There's also an example of race condition that helps me understand the importance of the use of synchronization to prevent this condition.
 
+2. [L-4.1: DEADLOCK concept | Example | Necessary condition](https://youtu.be/rWFH6PLOIEI?si=7kXPDIqIJx3hJbS2)<br>
+Explans the concept of deadlock, why it can happen, and the necessary conditions that we need to pay attention to when we're predicting the occurence of a deadlock. 
