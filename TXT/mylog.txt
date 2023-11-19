@@ -74,3 +74,11 @@ ZCZC W07 90 L16 Assignment #07
 ZCZC W07 30 L62 Backup Virtual Debian Guest
 ZCZC W07 300 L81 Listening: Radio, Music, etc.
 ZCZC W07 180 L70 Studying for other courses.
+ZCZC W08 145 L02 CLASSROOM/ZOOM meetings related
+ZCZC W08 15 L03 GitHub and git related, including commit, push, pull
+ZCZC W08 30 L05 Quiz related including studying
+ZCZC W08 240 L18 Assignment #08
+ZCZC W08 91 L32 YouTube: watching OS related topics, etc.
+ZCZC W08 20 L40 TXT/ related in general.
+ZCZC W08 360 L70 Studying for other courses.
+ZCZC W08 480 L81 Listening: Radio, Music, etc.
