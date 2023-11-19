@@ -75,10 +75,10 @@ Explains what process synchronization is and why we need it. There's also an exa
 Explans the concept of deadlock, why it can happen, and the necessary conditions that we need to pay attention to when we're predicting the occurence of a deadlock. 
 
 ## Week 08
-1. [L-2.1: Process Scheduling Algorithms (Preemption Vs Non-Preemption) | CPU Scheduling in OS] (https://youtu.be/zFnrUVqtiOY?si=9khvXC_ms1yqFNvD)<br>
+1. [L-2.1: Process Scheduling Algorithms (Preemption Vs Non-Preemption) | CPU Scheduling in OS](https://youtu.be/zFnrUVqtiOY?si=9khvXC_ms1yqFNvD)<br>
 Explains the basic concept of scheduling and the difference between pre-emption vs non pre-emption scheduling. I like the student-question analogy used here :>
 
-2. [g++ fatal error: killed signal terminated program cc1plus when trying to install NS3 in ubuntu] (https://stackoverflow.com/questions/66967848/g-fatal-error-killed-signal-terminated-program-cc1plus-when-trying-to-install)<br>
+2. [g++ fatal error: killed signal terminated program cc1plus when trying to install NS3 in ubuntu](https://stackoverflow.com/questions/66967848/g-fatal-error-killed-signal-terminated-program-cc1plus-when-trying-to-install)<br>
 Another day saved by stackoverflow. Silly me forgot about my current base memory size so an error occured when i was compiling gcc packages for this week's assignment. Copied the error message on google search and found this stackoverflow post. Thanks to both the person asking the question and the person offering a simple solution. A saviour of my week08 assignment fr.
 
 3. [7. Chapter 5: Compiling a Cross-Toolchain - How to build Linux From Scratch (LFS) 12.0](https://youtu.be/uggsnHSELos?si=Tt8FrdAUyQ8hm6He)<br>
