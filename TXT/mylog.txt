@@ -82,3 +82,12 @@ ZCZC W08 91 L32 YouTube: watching OS related topics, etc.
 ZCZC W08 20 L40 TXT/ related in general.
 ZCZC W08 360 L70 Studying for other courses.
 ZCZC W08 480 L81 Listening: Radio, Music, etc.
+ZCZC W09 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W09 30 L03 GitHub and git related, including commit, push, pull
+ZCZC W09 60 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W09 360 L19 Assignment #09
+ZCZC W09 20 L40 TXT/ related in general.
+ZCZC W09 15 L43 TXT/myrank.tex related, including peer review.
+ZCZC W09 5 L64 Helping a friend (OS related problem)
+ZCZC W09 60 L70 Studying for other courses.
+ZCZC W09 30 L62 Backup Virtual Debian Guest

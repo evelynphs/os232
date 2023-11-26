@@ -85,3 +85,11 @@ Another day saved by stackoverflow. Silly me forgot about my current base memory
 ( Taken from "OS Week 08 Assignment #3: Linux From Scratch 12.0 Ch. 1-5" )<br>
 Step by step guide on compiling some packages required for LFS based on chapter 5 of the "Linux From Scratch" book. Simple, concise, detailed, easy to follow, shows how everything is done from A-Z, no skipping or speed-up. Props to Kernotex. 
 
+## Week 09
+1. [Kernotex's LFS Chapter 6](https://youtu.be/D_N1kQPsQEk?si=obtdkaBOt_ku6c0u) and [Kernotex's LFS Chapter 7](https://youtu.be/y8uAMEK0FVc?si=gYQ5_pt2-AUBLUP-)<br>
+( Taken from "OS Week 09 Assignment #3: Linux From Scratch 12.0 Ch. 6-7")<br>
+Step by step guide on compiling and setting up certain needs for LFS based on chapter 6 and 7 of the "Linux From Scratch" book. Another appreciation for Sir Kernotex for helping me getting another assignment done.
+
+2. [Linux ln – How to Create a Symbolic Link in Linux [Example Bash Command]](https://www.freecodecamp.org/news/linux-ln-how-to-create-a-symbolic-link-in-linux-example-bash-command/)<br>
+A guide on how to use the `ln` command in Linux. Helped me with this week's pop quiz.
+
