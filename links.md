@@ -93,3 +93,7 @@ Step by step guide on compiling and setting up certain needs for LFS based on ch
 2. [Linux ln – How to Create a Symbolic Link in Linux [Example Bash Command]](https://www.freecodecamp.org/news/linux-ln-how-to-create-a-symbolic-link-in-linux-example-bash-command/)<br>
 A guide on how to use the `ln` command in Linux. Helped me with this week's pop quiz.
 
+## Week 10
+1. [Kernotex's LFS Chapter 8: 8.47 to 8.80](https://youtu.be/X2d6w2Fj7Og?si=L-PfIj9dNwM5HB0q)<br>
+(Taken from OS Week 10 Assignment #3: Linux From Scratch 12.0 Ch. 8)<br>
+Thank You Kernotex for accompanying me going through the last OS232 week and getting the whole Week10 assignment done. Your service will always be remembered /salute emoji
