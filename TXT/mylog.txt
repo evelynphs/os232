@@ -91,3 +91,13 @@ ZCZC W09 15 L43 TXT/myrank.tex related, including peer review.
 ZCZC W09 5 L64 Helping a friend (OS related problem)
 ZCZC W09 60 L70 Studying for other courses.
 ZCZC W09 30 L62 Backup Virtual Debian Guest
+ZCZC W10 90 L02 CLASSROOM/ZOOM meetings related
+ZCZC W10 40 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W10 30 L03 GitHub and git related, including commit, push, pull
+ZCZC W10 780 L19 Assignment #09
+ZCZC W10 20 L40 TXT/ related in general.
+ZCZC W10 15 L43 TXT/myrank.tex related, including peer review.
+ZCZC W10 300 L70 Studying for other courses.
+ZCZC W10 50 L62 Backup Virtual Debian Guest
+ZCZC W10 300 L81 Listening: Radio, Music, etc.
+ZCZC W10 540 L84 Relax, Rest, Nap, and Sleep
